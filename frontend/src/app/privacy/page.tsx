@@ -19,7 +19,7 @@ export default function PrivacyPage() {
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>Overview</h2>
         <p>
-          Second Helpings is a personal recipe-sharing project built as a
+          Recipes Website is a personal recipe-sharing project built as a
           portfolio piece to demonstrate web development skills. It is not a
           commercial product. This policy explains what information the site
           collects when you use it and how that information is handled.
@@ -128,7 +128,7 @@ export default function PrivacyPage() {
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>About this project</h2>
         <p>
-          Second Helpings is a demonstration project created for portfolio
+          Recipes Website is a demonstration project created for portfolio
           purposes. It is not operated as a commercial service, and this
           policy is not legal advice. If this project is ever used with real
           user data at scale, this policy should be reviewed by a legal

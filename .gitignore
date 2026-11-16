@@ -10,3 +10,5 @@ dev.err
 studio.out
 studio.err
 .github/
+.neon
+.env.local

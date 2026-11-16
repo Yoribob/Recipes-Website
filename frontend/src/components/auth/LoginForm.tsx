@@ -38,7 +38,7 @@ export function LoginForm() {
     <main className={styles.page}>
       <div className={styles.card}>
         <h1 className={styles.title}>Log in</h1>
-        <p className={styles.subtitle}>Welcome back to Second Helpings.</p>
+        <p className={styles.subtitle}>Welcome back to Recipes Website.</p>
 
         <form className={styles.form} onSubmit={handleSubmit}>
           <label className={styles.field}>

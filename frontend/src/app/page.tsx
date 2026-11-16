@@ -39,7 +39,7 @@ export default async function Home() {
       <HeroCarousel slides={slides} />
 
       <section className={styles.hero}>
-        <h1 className={styles.title}>Second Helpings</h1>
+        <h1 className={styles.title}>Recipes Website</h1>
         <p className={styles.subtitle}>
           A cozy corner of the internet for weeknight dinners, lazy weekend
           bakes, and everything you can make with what&apos;s already in the
