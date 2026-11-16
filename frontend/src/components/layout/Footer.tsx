@@ -47,9 +47,9 @@ export function Footer() {
           <div className={styles.brandBlock}>
             <Link href="/" className={styles.brand}>
               <span className={styles.logoMark} aria-hidden="true">
-                SH
+                RW
               </span>
-              <span className={styles.brandName}>Second Helpings</span>
+              <span className={styles.brandName}>Recipes Website</span>
             </Link>
           </div>
 
@@ -86,7 +86,7 @@ export function Footer() {
               TheMealDB
             </a>
           </span>
-          <span>&copy; {year} Second Helpings. All rights reserved.</span>
+          <span>&copy; {year} Recipes Website. All rights reserved.</span>
         </div>
       </div>
     </footer>

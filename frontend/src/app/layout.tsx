@@ -9,8 +9,8 @@ import { fontVariables } from "@/lib/fonts";
 
 export const metadata: Metadata = {
   title: {
-    default: "Second Helpings",
-    template: "%s · Second Helpings",
+    default: "Recipes Website",
+    template: "%s · Recipes Website",
   },
   description: "A cozy place for your recipes.",
 };

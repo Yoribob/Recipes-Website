@@ -19,7 +19,7 @@ export default function TermsPage() {
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>About this project</h2>
         <p>
-          Second Helpings is a personal project built as a portfolio piece,
+          Recipes Website is a personal project built as a portfolio piece,
           letting you browse recipes and, if you create an account, save your
           own recipes, rate and comment on others, and bookmark the ones you
           like. It is not operated as a commercial service. By using the site,

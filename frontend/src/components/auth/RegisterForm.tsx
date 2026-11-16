@@ -40,7 +40,7 @@ export function RegisterForm() {
       <div className={styles.card}>
         <h1 className={styles.title}>Create an account</h1>
         <p className={styles.subtitle}>
-          Join Second Helpings to save recipes you love.
+          Join Recipes Website to save recipes you love.
         </p>
 
         <form className={styles.form} onSubmit={handleSubmit}>

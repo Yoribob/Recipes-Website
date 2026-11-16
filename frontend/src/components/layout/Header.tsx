@@ -78,9 +78,9 @@ export async function Header() {
       <div className={styles.inner}>
         <Link href="/" className={styles.brand}>
           <span className={styles.logoMark} aria-hidden="true">
-            SH
+            RW
           </span>
-          <span className={styles.brandName}>Second Helpings</span>
+          <span className={styles.brandName}>Recipes Website</span>
         </Link>
 
         <nav aria-label="Main" className={styles.navRow}>
